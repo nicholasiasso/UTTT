@@ -1,0 +1,15 @@
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\UTTT.exe
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\UTTT.deps.json
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\UTTT.runtimeconfig.json
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\UTTT.dll
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\ref\UTTT.dll
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\bin\Debug\net6.0\UTTT.pdb
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.csproj.AssemblyReference.cache
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.AssemblyInfo.cs
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.dll
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\ref\UTTT.dll
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.pdb
+C:\Users\nicho\Desktop\UTTT\UTTT\UTTT\obj\Debug\net6.0\UTTT.genruntimeconfig.cache

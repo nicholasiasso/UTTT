@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca80bd10-e6e1-4929-8ef4-d5648bfcf458": {
+      "ProjectGuid": "ca80bd10-e6e1-4929-8ef4-d5648bfcf458",
+      "DisplayName": "UTTT",
+      "ColorIndex": 0
+    },
+    "729e462a-dfa2-4b0b-a4d6-755782b781c0": {
+      "ProjectGuid": "729e462a-dfa2-4b0b-a4d6-755782b781c0",
+      "DisplayName": "UTTTTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
